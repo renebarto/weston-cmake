@@ -1,0 +1,3 @@
+# weston-cmake
+
+Trying to build weston completely inside cmake, so not depending on automake stuff...
