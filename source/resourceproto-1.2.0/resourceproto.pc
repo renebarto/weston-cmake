@@ -1,0 +1,9 @@
+prefix=
+exec_prefix=
+libdir=
+includedir=
+ 
+Name: ResourceProto
+Description: Resource extension headers
+Version: 
+Cflags: -I${includedir}

@@ -1,0 +1,9 @@
+prefix=
+exec_prefix=
+libdir=
+includedir=
+ 
+Name: RenderProto
+Description: Render extension headers
+Version: 
+Cflags: -I${includedir}
